@@ -1,2 +1,2 @@
-# Chalcogenide-Perovskites-measuring-Bandgap-and-Efficiency-in-Solar-Cells
+# Chalcogenide-Perovskites
 In this work, several machine learning algorithms—including CatBoost Regressor, Gradient Boosting Regressor, Support Vector Regression (SVR), and KNeighbors Regressor—were implemented to predict the bandgap and photovoltaic efficiency of CPs. Feature optimization techniques were applied to refine the dataset by eliminating redundant and irrelevant descriptors, thus improving prediction accuracy and reducing computational cost. Performance evaluation was conducted using metrics such as RMSE, MAE, and R² score to determine the most effective predictive model.
